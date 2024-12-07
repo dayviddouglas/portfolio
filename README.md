@@ -18,6 +18,7 @@ Este projeto é um portfólio pessoal desenvolvido para mostrar meus trabalhos e
 
 - HTML
 - CSS
+- Javascript
 - Visual Studio Code
 
 ## Instalação
@@ -41,7 +42,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 - Email: [dayvid_douglas@hotmail.com](mailto:dayvid_douglas@hotmail.com)
 - LinkedIn: [dayvid-douglas](https://www.linkedin.com/in/dayvid-douglas/)
-- GitHub:[Dayvid Douglas](https://github.com/dayviddouglas)
+- GitHub: [Dayvid Douglas](https://github.com/dayviddouglas)
    
 
    
